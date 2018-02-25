@@ -24,7 +24,7 @@
   },
   "FRN_resourceEndpoints": [
     {
-      "url": "",
+      "url": "http://wnow.dsys1.worldnow.com/category/170537/breaking-news?clienttype=container.json",
       "type": "json"
     }
   ]
