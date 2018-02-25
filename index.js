@@ -7,7 +7,7 @@ class RandomTest extends Component {
   }
   render(){
     let {
-      h2 = 'simple repo created by heba - testing :)',
+      h2 = 'simple repo created by heba - testing :) testnewhebamodule-onqa',
     } = this.props;
 
     let {
